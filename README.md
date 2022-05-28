@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👋 Hi, I’m @staceyp  
+- 👋 Hi, I’m stacey! Also known as pd. :)
 - 👀 I’m interested in algorithms and data structures... and in writing text adventures and MUDs/MUSHes. 
 - 🌱 I’m currently learning Java and C++ and am in my 2nd year at MQU, Sydney.   
 - 💞️ I'm not specifically looking to collaborate at the moment, but feel free to hit me up!
